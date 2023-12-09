@@ -1,4 +1,4 @@
-package com.example.lesson361;
+package com.example.lesson362;
 
 public class Payment {
 
